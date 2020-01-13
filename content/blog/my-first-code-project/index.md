@@ -17,3 +17,6 @@ Let's link to [Gatsby](https://gatsbyjs.org)
 ```javascript
 let title = "My First Code Project"
 ```
+
+## And a pic
+![A slightly open laptop revealing colorful lights.](./computer.jpg)
