@@ -5,25 +5,23 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's blog starter
+  Blog Site Example from Gatsby Webinar
 </h1>
 
-Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+This repository includes a branch per feature added. The following branches are available and build on each other, they're ordered based on the number the branch name starts with.
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+- 01-blog-starter
+- 02-add-a-post
+- 03-add-code-snippet
+- 04-add-image
+- 05-add-styling
+- 06-change-all-posts
+- 07-change-post-order
+- 08-alter-post-urls
+- 09-add-reading-time
 
-## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
-
-    Use the Gatsby CLI to create a new site, specifying the blog starter.
-
-    ```shell
-    # create a new Gatsby site using the blog starter
-    gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
-    ```
-
-1.  **Start developing.**
+1.  **Quick Start.**
 
     Navigate into your new site’s directory and start it up.
 
