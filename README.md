@@ -45,11 +45,11 @@ This example site is already deployed at [my-first-code-blog.com](https://my-fir
 
 ## Resources used to create this project
 
-[Blog starter repo](https://github.com/gatsbyjs/gatsby-starter-blog)
-[Markdown syntax helper](https://www.gatsbyjs.org/docs/mdx/markdown-syntax/)
-[Using Prism for code snippets](https://www.gatsbyjs.org/packages/gatsby-remark-prismjs/#required-pick-a-prismjs-theme-or-create-your-own)
-[Google analytics plugin](https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics/?=)
-[Reading Time plugin](https://www.gatsbyjs.org/packages/gatsby-remark-reading-time/)
+- [Blog starter repo](https://github.com/gatsbyjs/gatsby-starter-blog)
+- [Markdown syntax helper](https://www.gatsbyjs.org/docs/mdx/markdown-syntax/)
+- [Using Prism for code snippets](https://www.gatsbyjs.org/packages/gatsby-remark-prismjs/#required-pick-a-prismjs-theme-or-create-your-own)
+- [Google analytics plugin](https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics/?=)
+- [Reading Time plugin](https://www.gatsbyjs.org/packages/gatsby-remark-reading-time/)
 
 
 ## 🎓 Learning Gatsby
