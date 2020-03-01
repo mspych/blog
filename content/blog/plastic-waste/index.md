@@ -13,6 +13,6 @@ Here are my tips on how to reduce plastic usage when traveling:
 
 1. Get a large bottle of [Dr Bronner's Organic Castile Soap](https://www.amazon.co.uk/s?k=dr+bronner+castile+soap&crid=15YSEC9GYIS2Q&sprefix=dr+bronner+cast%2Caps%2C324&ref=nb_sb_ss_i_1_15). It’s free from nasty stuff and super concentrated so you only need few drops. Highly recommend the almond scent. It’s our favourite.  
 2. Buy reusable bottle like [Humangear GoToob](https://www.amazon.co.uk/s?k=Humangear+GoToob&ref=nb_sb_noss) and fill it with Castile Soap. They come in various sizes. We have a small (37ml) and large (100ml) one. I suggest going for 2 smaller ones as they give you greater control over dispensing. With large one you end up applying too much. 
-Two small ones should easily cover 7-10 days trips when traveling as a couple! Not only you won’t need to worry about that nasty stuff in most hotel’s toiletries, freeing some space in you bag but ultimately you are saving the 🌍
+Two small ones should easily cover 7-10 days trips when traveling as a couple! Not only you won’t need to worry about that nasty stuff in most hotels' toiletries, freeing some space in you bag but ultimately you are saving the 🌍
 
 Climate change is a hot topic. It’s good. Raising awareness is good.  
