@@ -1,22 +1,18 @@
 ---
 title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+date: "2020-02-23T22:12:03.284Z"
 description: "Hello World"
 ---
 
-This is my first post on my new fake blog! How exciting!
+This is my first post on my new blog! How exciting!
 
-I'm sure I'll write a lot more interesting things in the future.
+When researching the platform for this blog I considered two most popular static site generators - Jekyll and Hugo.<br/> 
+Later I discovered Gatsby (Gatsby.js exactly) that even top brands are using right now. Just look at the [Braun GatsbyJS eCommerce](https://ca.braun.com/en-ca) or [The Just Do It Promotional Nike Website](https://justdoit.nike.com).
+'Static' is simply the way to go.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+Some benefits:
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
+- Write in Markdown  (I understand the basic Syntax but want to create a habit)
+- Blazing fast
+- Learn modern front-end technologies gradually
+- JavaScript everywhere - transferable skills   

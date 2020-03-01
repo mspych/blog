@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `My First Coding Blog`,
-    author: `Coder Gatsbee`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    title:  ``,
+    author: `Mariusz`,
+    description: `A blog for life learnings`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `AskGatsbyJS`,
+      twitter: `mspychala`,
     },
   },
   plugins: [
@@ -42,7 +42,6 @@ module.exports = {
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
-          `gatsby-remark-reading-time`,
         ],
       },
     },

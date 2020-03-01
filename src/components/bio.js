@@ -14,9 +14,9 @@ import { rhythm } from "../utils/typography"
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
-      avatar: file(absolutePath: { regex: "/gatsby-icon.png/" }) {
+      avatar: file(absolutePath: { regex: "/memoji.png/" }) {
         childImageSharp {
-          fixed(width: 50, height: 50) {
+          fixed(width: 70, height: 70) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -54,10 +54,12 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in GatsbyLand building useful things.
-        {` `}
+        Hi, I'm <strong>{author}</strong> <br/>
+        This site hosts all of my writing on some of the stuff that I care about. <br/>
+        Expect posts on best tools, workflows, and mindsets.
+        <p></p>{` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow them on Twitter
+          You can follow me on Twitter
         </a>
       </p>
     </div>
