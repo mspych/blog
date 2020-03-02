@@ -6,7 +6,7 @@ description: I guess this is my travel hack
 
 We had our weekly groceries delivered today.
 Mind-boggling how much plastic is used for food packaging. 
-While it genuinely makes me feel bad about myself for not shopping locally and reducing some of that waste it’s up to supermarkets to come up with holistic solutions to takle the problem. 
+While it genuinely makes me feel bad about myself for not shopping locally and reducing some of that waste it’s up to supermarkets to come up with holistic solutions to tackle the problem. 
 
 Shifting topics. Let’s talk about travel.
 Here are my tips on how to reduce plastic usage when traveling:
