@@ -14,7 +14,7 @@ Why static?
 
 'Static' is simply the way to go.
 
-Later I discovered Gatsby (Gatsby.js exactly). The new cool in town, that even top brands are using right now. <br/>
+Later I discovered Gatsby (Gatsby.js exactly). The new cool in town, that even top brands are using right now.
 Just look at the [Braun GatsbyJS eCommerce](https://ca.braun.com/en-ca) or [The Just Do It Promotional Nike Website](https://justdoit.nike.com).
 
 
