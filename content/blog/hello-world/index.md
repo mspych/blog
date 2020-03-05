@@ -12,7 +12,7 @@ Later I discovered Gatsby (Gatsby.js exactly) that even top brands are using rig
 
 Some benefits:
 
-- Write in Markdown  (I understand the basic Syntax but want to create a habit)
+- Write in [Markdown](https://www.markdownguide.org/getting-started/)  (I understand the basic Syntax but want to create a habit)
 - Blazing fast
 - Learn modern front-end technologies gradually
 - JavaScript everywhere - transferable skills   
