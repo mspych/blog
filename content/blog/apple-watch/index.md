@@ -18,5 +18,5 @@ Here are some other features and how I use the watch daily:
 * Changing tracks and controlling the volume on any device that’s currently playing 
 * Capturing ideas using [Drafts](https://birchtree.me/blog/drafts-5-on-apple-watch-review/)
 
-I really like this device separation. Not having to pick up the phone first thing in morning, resisting the temptations of plethora of apps waiting for my attention.
+I really like this device separation. Not having to pick up the phone first thing in morning, resisting the temptations of plethora of apps waiting for my attention.<br/>
 I can go for a run while listening to a podcast or Audible (paired with my AirPods), pickup bread from a local bakery (paid with  Pay) on the way back and every time it feels I'm a man from the future 💥
