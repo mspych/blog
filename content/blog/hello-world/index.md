@@ -10,13 +10,15 @@ When researching the platform for this blog I considered two most popular static
 Why static?
 
 >Static pages eliminate the latency that databases introduce. Static site generators are an alternative to database-driven content management systems, such as WordPress and Drupal. In such systems, content is managed and stored in a database. When the server receives a request for a particular URL, a software layer retrieves data from the database, merges it with template files, and generates an HTML page as its response.<br/>
->Static site generators, on the other hand, generate HTML pages during a build process. 
+>Static site generators, on the other hand, generate HTML pages during a build process. Static pages eliminate the latency that databases introduce.
 
-
-Later I discovered Gatsby (Gatsby.js exactly) that even top brands are using right now. Just look at the [Braun GatsbyJS eCommerce](https://ca.braun.com/en-ca) or [The Just Do It Promotional Nike Website](https://justdoit.nike.com).
 'Static' is simply the way to go.
 
-Some benefits:
+Later I discovered Gatsby (Gatsby.js exactly). The new cool in town, that even top brands are using right now. <br/>
+Just look at the [Braun GatsbyJS eCommerce](https://ca.braun.com/en-ca) or [The Just Do It Promotional Nike Website](https://justdoit.nike.com).
+
+
+Overall benefits:
 
 - Write in [Markdown](https://www.markdownguide.org/getting-started/)  (I understand the basic Syntax but want to create a habit)
 - Blazing fast
