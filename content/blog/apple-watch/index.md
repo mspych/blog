@@ -11,7 +11,7 @@ I know you can’t really compare the old with new but the change in performance
 
 Here are some other features and how I use the watch daily: 
 * Listening to music, podcasts and audiobooks on the go
-* Unlocking my mac (honestly feels like magic) 
+* Unlocking my Mac (honestly feels like magic) 
 * Tracking all workouts and steps (I do like to [close my rings](https://www.apple.com/uk/watch/close-your-rings/))
 * Silent Alarm (no sound). The watch will vibrate (give haptic feedback). While I wake up without the alarm (#routines) it’s super handy if you don’t want to wake your spouse when catching that early morning flight.
 * On few occasions I will use the flashlight. Again, helpful when you don’t want to blinded by the lights in the room during the night when navigating that weird hotel room layout. 
