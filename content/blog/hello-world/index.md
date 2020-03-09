@@ -25,5 +25,5 @@ Overall benefits:
 - Learn modern front-end technologies gradually
 - JavaScript everywhere - transferable skills   
 
-Regarding hosting, this website is hosted by Netlify for free!
+Regarding hosting, this website is hosted by Netlify for free! <br/>
 Bought the domain via [hover](https://hover.com). They really don't want to [upsell their customers](https://www.hover.com/blog/real-price-of-cheap-domain-name/).
