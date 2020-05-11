@@ -66,9 +66,6 @@ class Layout extends React.Component {
 2020
 ,
 © 
-<a href="https://www.chenmor.com">Chen Mor</a>
-&nbsp;&nbsp;|&nbsp;Build something great 🛠
-<footer class="layout__Footer-mdb7ar-1 iHTkom">2020, © <a href="https://www.chenmor.com">Chen Mor</a>&nbsp;&nbsp;|&nbsp;Build something great 🛠</footer>
       </div>
     )
   }
