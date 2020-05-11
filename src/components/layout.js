@@ -62,7 +62,8 @@ class Layout extends React.Component {
       >
         <header>{header}</header>
         <main>{children}</main>
-<footer class="layout__Footer-mdb7ar-1 iHTkom">2020, © <a href="https://mariuszspychala.com">Mariusz Spychala</a>&nbsp;&nbsp;|&nbsp;Build something great 🛠</footer>
+<footer class="layout__Footer-mdb7ar-1 iHTkom">2020,
+  © <a href="https://mariuszspychala.com">Mariusz Spychala</a>&nbsp;&nbsp;|&nbsp;Build something great 🛠</footer>
       </div>
     )
   }
