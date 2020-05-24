@@ -43,7 +43,7 @@ If you have multiple cards with the same card issuer(like we do with Amex) the f
 `Amex/Mariusz-Gold/2020/2020-01*DUE*-27Jan-12345.pdf`
 
 Here’s the end result:
-![](./hazel.mp4)
+![](./hazel.gif)
 
 Magic. 
 
