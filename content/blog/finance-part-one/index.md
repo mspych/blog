@@ -1,5 +1,5 @@
 ---
-title: Paperless Statements on the Mac with Hazel and OmniFocus
+title: Paperless statements on the Mac with Hazel and OmniFocus
 date: "2020-05-24T11:12:03.284Z"
 description: "First pos in the series"
 ---
