@@ -34,16 +34,16 @@ Banks in most cases will only allow you to download statements for the last twel
 
 Every month (usually on a Saturday morning) I would log in to each of our financial institution’s portals and download corresponding statements.
 Hazel is monitoring my Downloads folder and as soon as the file is downloaded, it recognises the file is a statement(in a .pdf format) based off the source url stored in the file property. It then files it under the correct folder like “Amex” which is being monitored against different set of conditions and as soon as the file is moved into that folder it performs different set of actions. 
-So a file like `random-name.pdf` (not very helpful) becomes `2020-04*DUE*-10May-12345` containing all the important information: 
+So a file like `random-name.pdf` (not very helpful) becomes `2020-01*DUE*-10Jan-12345` containing all the important information: 
 * Statement Year and Month 
 * Payment’s due date
 * The last 5digits from the long card number 
 
 If you have multiple cards with the same card issuer(like we do with Amex) the file is sorted into a subfolder with a path like this:\
-`Amex/Mariusz-Gold/2020/2020-04*DUE*-10May-12345.pdf`
+`Amex/Mariusz-Gold/2020/2020-01*DUE*-27Jan-12345.pdf`
 
 Here’s the end result:
-![](./hazel.gif)
+![](./hazel.mp4)
 
 Magic. 
 
