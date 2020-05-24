@@ -56,6 +56,7 @@ Here’s the actual script.
 
 tell application "Finder" to set file_name to (name of theFile)
 set file_name to item 1 of inputAttributes
+
 ```tell application "OmniFocus"
 	tell front document
 		set theDueDate to item 2 of inputAttributes
