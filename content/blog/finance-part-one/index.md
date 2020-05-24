@@ -72,7 +72,6 @@ tell application "OmniFocus"
 end tell
 ```
 
-The additional 
 Not only the script is parsing the payment due date but it would also attach the actual pdf file for referencing!
 
 At one point we had 20+ credit cards. This workflow takes about 5mins to process all of them 💥
