@@ -6,6 +6,17 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
 
+import Layout from '../components/layout'
+import otterGIF from '../gifs/hazel.gif'
+const AboutPage = () => (
+    return (
+        <Layout>
+            <img src={otterGIF} alt="Otter dancing with a fish" />
+        </Layout>
+    )
+)
+export default AboutPage;
+
 class BlogIndex extends React.Component {
   render() {
     const { data } = this.props
