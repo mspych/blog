@@ -1,7 +1,4 @@
 module.exports = {
-    siteMetadata: {
-        title: `Using Video`,
-      },
   siteMetadata: {
     title:  ``,
     author: `Mariusz`,
