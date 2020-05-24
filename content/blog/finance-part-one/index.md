@@ -51,7 +51,7 @@ At this point it would be great to put that nicely formatted filename into a “
 The next step is a bit geeky.
 
 I’ve mentioned already that Hazel can run actions. Like mini programs but with no code.
-Well turns out Hazel can run an actual code and with some experimenting and googling I was able to put together an AppleScript that that will create a “payment” task in my OmniFocus “Finance” project.
+Well turns out Hazel can run an actual code and with some experimenting and googling I was able to put together an AppleScript that will create a “payment” task in my OmniFocus “Finance” project.
 
 Here’s the actual script.
 
