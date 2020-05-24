@@ -6,12 +6,14 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
 
-import DogVideo from "../assets/hazel.mp4"
-
+import React from "react"
+import DogMp4 from "../assets/hazel.mp4"
+import DogOgg from "../assets/hazel.ogg"
 export default function Home() {
   return (
     <video controls>
-      <source src={DogVideo} type="video/mp4" />
+      <source src={DogMp4} type="video/mp4" />
+      <source src={DogOgg} type="video/ogg" />
     </video>
   );
 }
