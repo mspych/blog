@@ -4,7 +4,7 @@ date: "2020-05-24T11:12:03.284Z"
 description: "First pos in the series"
 ---
 
-This is the first part about in the ‘Managing Our Finance’ series.
+This is the first part in the ‘Managing Our Finance’ series.
 
 When I was at Uni I discovered Evernote. It allowed me to be somewhat more productive, or at least less messy when it comes storing documents.
 
@@ -75,7 +75,7 @@ end tell
 The additional 
 Not only the script is parsing the payment due date but it would also attach the actual pdf file for referencing!
 
-At one point we had 20+ credit cards. Takes about 5mins to process statements for all of them. 
+At one point we had 20+ credit cards. This workflow takes about 5mins to process all of them 💥
 
 
 
