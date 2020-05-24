@@ -42,6 +42,9 @@ So a file like `random-name.pdf` (not very helpful) becomes `2020-01*DUE*-27Jan-
 If you have multiple cards with the same card issuer(like we do with Amex) the file is sorted into a subfolder with a path like this:\
 `Amex/Mariusz-Gold/2020/2020-01*DUE*-27Jan-12345.pdf`
 
+Here's the full screen setup in Hazel:
+![](./Hazel_Full.png)
+
 Here’s the end result:
 ![](./hazel.gif)
 
