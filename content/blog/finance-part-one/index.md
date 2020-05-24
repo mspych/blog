@@ -4,8 +4,6 @@ date: "2020-05-24T11:12:03.284Z"
 description: "First pos in the series"
 ---
 
-# Paperless Statements on the Mac with Hazel and OmniFocus
-
 This is the first part about in the ‘Managing Our Finance’ series.
 
 When I was at Uni I discovered Evernote. It allowed me to be somewhat more productive, or at least less messy when it comes storing documents.
