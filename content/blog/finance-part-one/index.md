@@ -39,7 +39,7 @@ So a file like `random-name.pdf` (not very helpful) becomes `2020-04*DUE*-10May-
 * Payment’s due date
 * The last 5digits from the long card number 
 
-If you have multiple cards with the same card issuer(like we do with Amex) the file is sorted into a subfolder with a path like this:
+If you have multiple cards with the same card issuer(like we do with Amex) the file is sorted into a subfolder with a path like this:\
 `Amex/Mariusz-Gold/2020/2020-04*DUE*-10May-12345.pdf`
 
 Here’s the end result:
