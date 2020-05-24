@@ -1,7 +1,7 @@
 ---
 title: Paperless statements on the Mac with Hazel and OmniFocus
 date: "2020-05-24T11:12:03.284Z"
-description: "First pos in the series"
+description: "First post in the series"
 ---
 
 This is the first part in the ‘Managing Our Finance’ series.
