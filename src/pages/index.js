@@ -6,6 +6,17 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
 
+import React from "react"
+import DogVideo from "../assets/hazel.mp4"
+
+export default function Home() {
+  return (
+    <video controls>
+      <source src={DogVideo} type="video/mp4" />
+    </video>
+  );
+}
+
 class BlogIndex extends React.Component {
   render() {
     const { data } = this.props
