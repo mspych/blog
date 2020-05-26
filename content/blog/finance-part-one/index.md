@@ -16,7 +16,7 @@ One of those tools is Hazel. In a nutshell Hazel performs actions on folders bas
 One thing I do need to mention is that it only runs on Mac. I don’t think there’s an equivalent piece of software for PCs. 
 
  
-OmniFocus is my task manager of choice.
+[OmniFocus](https://mariuszspychala.com/finance-part-one/) is my task manager of choice.
 Over the years I switched from [2do](https://www.2doapp.com) to [Todoist](https://todoist.com), then went back to 2do.
 I also did experiment with [Things 3](https://culturedcode.com/things/three/) somewhere in between. 
 
