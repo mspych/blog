@@ -14,7 +14,7 @@ Here are some other features and how I use the watch daily:
 * Unlocking my Mac (honestly feels like magic) 
 * Tracking all workouts and steps (I do like to [close my rings](https://www.apple.com/uk/watch/close-your-rings/))
 * Silent Alarm (no sound). The watch will vibrate (give haptic feedback). While I wake up without the alarm (#routines) it’s super handy if you don’t want to wake your spouse when catching that early morning flight.
-* On few occasions I will use the flashlight. Again, helpful when you don’t want to blinded by the lights in the room during the night when navigating that weird hotel room layout. 
+* On few occasions I will use the flashlight. Again, helpful when you don’t want to blinded by the lights during the night.  
 * Changing tracks and controlling the volume on any device that’s currently playing 
 * Capturing ideas using [Drafts](https://birchtree.me/blog/drafts-5-on-apple-watch-review/)
 
