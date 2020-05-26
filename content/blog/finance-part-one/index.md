@@ -17,8 +17,8 @@ One thing I do need to mention is that it only runs on Mac. I don’t think ther
 
  
 OmniFocus is my task manager of choice.
-Over the years I switched from 2do to Todoist, then went back to 2do.
-I also did experiment with Things 3 somewhere in between. 
+Over the years I switched from [2do](https://www.2doapp.com) to [Todoist](https://todoist.com), then went back to 2do.
+I also did experiment with [Things 3](https://culturedcode.com/things/three/) somewhere in between. 
 
 There isn’t a perfect app for managing your todos. Everyone’s requirements would be different.   
 I have to admit OmniFocus has a steep learning curve. For me the biggest advantage (over other apps) is its ability to filter tasks. 
