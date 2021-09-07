@@ -56,7 +56,7 @@ const Bio = () => {
       <p>
         Hi, I'm <strong>{author}</strong> <br/>
         This site hosts all of my writing on some of the stuff that I care about. <br/>
-        Expect posts on best tools, workflows, and mindsets.
+        Expect posts on Airtbale, best tools, workflows, and mindsets.
         <p></p>{` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           You can follow me on Twitter
