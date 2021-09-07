@@ -47,6 +47,12 @@ class BlogIndex extends React.Component {
   }
 }
 
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/mariuszspych?hide_gdpr_banner=1', text: 'Schedule time with me', color: '#b123dd', textColor: '#ffffff', branding: true }); }</script>
+<!-- Calendly badge widget end -->
+
 export default BlogIndex
 
 export const pageQuery = graphql`
